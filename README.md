@@ -11,7 +11,7 @@ in an Android app.
    
    ```
    cd ..
-   git clone https://github/bitcoindevkit/bdk
+   git clone https://github.com/bitcoindevkit/bdk-android.git
    cd bdk
    more README.md
    ```
